@@ -1,0 +1,13 @@
+C:\Users\Ángel Adolfo Jiménez\Desktop\victor\parcial2\bin\Debug\Basededatos.mdf
+C:\Users\Ángel Adolfo Jiménez\Desktop\victor\parcial2\bin\Debug\Basededatos_log.ldf
+C:\Users\Ángel Adolfo Jiménez\Desktop\victor\parcial2\bin\Debug\parcial2.exe.config
+C:\Users\Ángel Adolfo Jiménez\Desktop\victor\parcial2\bin\Debug\parcial2.exe
+C:\Users\Ángel Adolfo Jiménez\Desktop\victor\parcial2\bin\Debug\parcial2.pdb
+C:\Users\Ángel Adolfo Jiménez\Desktop\victor\parcial2\obj\Debug\parcial2.csproj.AssemblyReference.cache
+C:\Users\Ángel Adolfo Jiménez\Desktop\victor\parcial2\obj\Debug\parcial2.frm_usuario.resources
+C:\Users\Ángel Adolfo Jiménez\Desktop\victor\parcial2\obj\Debug\parcial2.login.resources
+C:\Users\Ángel Adolfo Jiménez\Desktop\victor\parcial2\obj\Debug\parcial2.Properties.Resources.resources
+C:\Users\Ángel Adolfo Jiménez\Desktop\victor\parcial2\obj\Debug\parcial2.csproj.GenerateResource.cache
+C:\Users\Ángel Adolfo Jiménez\Desktop\victor\parcial2\obj\Debug\parcial2.csproj.CoreCompileInputs.cache
+C:\Users\Ángel Adolfo Jiménez\Desktop\victor\parcial2\obj\Debug\parcial2.exe
+C:\Users\Ángel Adolfo Jiménez\Desktop\victor\parcial2\obj\Debug\parcial2.pdb
